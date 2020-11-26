@@ -1,0 +1,17 @@
+# build
+.bloop
+.bsp
+target
+*.class
+
+# runtime
+*.log
+
+# IDEs
+.idea
+.vscode
+.metals
+project/metals.sbt
+
+# OS
+.DS_STORE
